@@ -114,6 +114,8 @@ Rolling 12-Month Revenue
 
   Conditional formatting for performance
 
+  [P&L Matrix Page Preview](https://github.com/Hassan0397/Financial-Planning-and-Analysis-Financial-Dashboard-Power-BI-/blob/main/Income%20statement.png)
+
 # 3️⃣ Department Analysis
 
   Department & Date slicers
@@ -123,6 +125,8 @@ Rolling 12-Month Revenue
   Top Projects by Expense
 
   KPI Cards (Revenue, Expense, Margin)
+
+  [Department Analysis Page Preview](https://github.com/Hassan0397/Financial-Planning-and-Analysis-Financial-Dashboard-Power-BI-/blob/main/Department%20Details.png)
 
 # Future Enhancements
 
