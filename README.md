@@ -1,6 +1,6 @@
 # FP&A Financial Dashboard (Power BI)
 
-A professional Financial Planning & Analysis (FP&A) Dashboard built in Microsoft Power BI, designed to simulate how finance teams in multinational companies (Deloitte, Microsoft, FAANG, etc.) track Revenue, Expenses, Budgets, Variance, and Department Performance.
+A professional Financial Planning & Analysis (FP&A) Dashboard built in Microsoft Power BI, designed to simulate how finance teams in multinational companies track Revenue, Expenses, Budgets, Variance, and Department Performance.
 
 This project demonstrates enterprise-grade BI skills including data modeling, DAX, finance KPIs, and clean dashboard UI/UX.
 
