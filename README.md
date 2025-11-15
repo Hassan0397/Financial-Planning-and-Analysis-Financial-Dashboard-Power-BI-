@@ -102,6 +102,8 @@ Rolling 12-Month Revenue
 
   Department Variance Table
 
+  [Executive Overview](http://github.com/Hassan0397/Financial-Planning-and-Analysis-Financial-Dashboard-Power-BI-/blob/main/Executive%20Overview%20of%20Dashboard.png)
+
 # 2️⃣ P&L Matrix
 
   Income Statement-style view
